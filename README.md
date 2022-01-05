@@ -1,2 +1,2 @@
-# learning-github
-getting started with github
+GITHUB 
+getting started with GITHUB
